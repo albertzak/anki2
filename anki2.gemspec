@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['me@albertzak.com']
 
   spec.summary       = 'Create Anki Flashcards with Ruby! Supports images, audio, HTML and CSS.'
-  spec.description   = 'Build multimedia *.apkg Flashcards for use with the Anki (http://ankisrs.net) Spaced Repetition Software (SRS)'
+  spec.description   = 'Create Anki Flashcards with Ruby! Supports images, audio, HTML and CSS. Build multimedia *.apkg Flashcards for use with the Anki (http://ankisrs.net) Spaced Repetition Software (SRS)'
   spec.homepage      = 'https://github.com/albertzak/anki2'
   spec.license       = 'MIT'
 
